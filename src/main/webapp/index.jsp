@@ -1,7 +1,7 @@
 <!DOCTYPE>
 <html>
 <head>
-  <title>Some relevant title</title>
+  <title>Simplilearn Tomcat</title>
 </head>
 <body>
 <h2>Hello World! My First Tomcat Deployment</h2>
